@@ -12,10 +12,9 @@ Dá uma olhada nos meus repositórios e não hesite em entrar em contato para co
 <br/><br/>
 ## Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-zanatta-walter/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorzanattawalter@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vitorzanattawalter@gmail.com)
 <br/><br/>
 ## Atividade
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vitor-zanatta-walter&theme=tokyo-night)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=vitor-zanatta-walter&theme=dark&hide_border=true)
 
 > "An idiot admires complexity, a genius admires simplicity."
