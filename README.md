@@ -15,7 +15,7 @@ Dá uma olhada nos meus repositórios e não hesite em entrar em contato para co
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vitorzanattawalter@gmail.com)
 <br/><br/>
 ## Atividade
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=vitor-zanatta-walter&theme=dark&hide_border=true&locale=pt_BR&background=0d1117)
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=vitor-zanatta-walter&theme=dark&hide_border=true&locale=pt_BR&background=00000000)
 
 > "An idiot admires complexity, a genius admires simplicity."
 > ~Terry A. Davis
