@@ -1,5 +1,5 @@
 # Seja bem-vindo ao meu perfil do GitHub!
-Sou estudante de Engenharia de Software com foco em desenvolvimento de jogos e sistemas,
+Sou estudante de Engenharia de Software apaixonado pelo desenvolvimento de jogos e sistemas,
 constantemente publicando novos projetos de estudo por aqui.
 Dá uma olhada nos meus repositórios e não hesite em entrar em contato para conversar!
 <br/><br/>
